@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "580816816267",
+    "project_id": "levelx-1364e",
+    "storage_bucket": "levelx-1364e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580816816267:android:a7dc51022f6e75052cac8e",
+        "android_client_info": {
+          "package_name": "com.example.levelx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580816816267-jgnsa5h6tcubjtmbodv57h1uq7robiqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.levelx",
+            "certificate_hash": "aa0d80a17889d35be0f5c7c911b6535c46c5b928"
+          }
+        },
+        {
+          "client_id": "580816816267-svf9bp3e7n6b2ippg1s06mvkhv22mea4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOF0MkTzUijGXWJXg5jWP61FWin5AoVW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580816816267-svf9bp3e7n6b2ippg1s06mvkhv22mea4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
