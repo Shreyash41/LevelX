@@ -27,6 +27,11 @@
 6. ***Glide Loader*** is used as an Image Loader Library. It handles image loading and caching.
 7. To edit or delete Product from cart ***SwipeToDeleteCallBack*** and ***SwipeToEditCallBack*** is used.
 
+| Smartphone Info  | Android Version |
+| ------------- | ------------- |
+|  OnePlus 7  |  Android 10  |
+|  Appetize.io | [App Review](https://appetize.io/app/0t9gqmwrb58g0a90yqr29ehkem) |
+
 # Screenshot
 <p align="left">
   <img width="225" height="450" src="https://user-images.githubusercontent.com/62322907/118163452-9e7f1500-b43f-11eb-9965-2f6db963d7ee.jpeg">
