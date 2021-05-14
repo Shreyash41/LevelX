@@ -51,7 +51,7 @@
 # Screenshot
 <p align="left">
   <img width="225" height="450" src="https://user-images.githubusercontent.com/62322907/118219070-5dfeb600-b496-11eb-8c21-960f5c0b50f6.gif">
-  <img width="225" height="450" src="https://user-images.githubusercontent.com/62322907/118219507-41af4900-b497-11eb-9ed5-02706b437d42.gif">
+  <img width="225" height="450" src="https://user-images.githubusercontent.com/62322907/118220205-b8991180-b498-11eb-96b1-4ad7ad246afb.gif">
   <img width="225" height="450" src="https://user-images.githubusercontent.com/62322907/118163452-9e7f1500-b43f-11eb-9965-2f6db963d7ee.jpeg">
   <img width="225" height="450" src="https://user-images.githubusercontent.com/62322907/118164740-0f72fc80-b441-11eb-962e-850f84a9d19f.jpeg">
   <img width="225" height="450" src="https://user-images.githubusercontent.com/62322907/118163540-bb1b4d00-b43f-11eb-8e31-946e6654de00.jpeg">
