@@ -1,7 +1,16 @@
+<img height='185' src="https://user-images.githubusercontent.com/62322907/118215755-cf873600-b48f-11eb-91ec-794f36627bc1.jpg" align="left" hspace="1" vspace="1">
 
 # LEVELX
   LevelX is an E-Commerce Application which provide users to efficiently book their Products they like. Multiple functionalities with multiple options is provided to the user to   save thier time and easily bought products from our Digital Store. This store has a vast varities of products that customer can has choices to choose that they like the most.
+  
+
+
 # Features
+
+<p align="right">
+<img width = "300" height = "300" src = "https://user-images.githubusercontent.com/62322907/118216015-4f150500-b490-11eb-9337-bf68d50a0880.png" align="right" hspace="1" vspace="1">
+</p>
+
 * Customer can easily Login and Register.
 * Customer can reset Password.
 * New Customer can Register by clicking Register Button.
@@ -13,6 +22,11 @@
 * Multiple Products can be added and removed in Cart.
 
 # Build
+
+<p align="right">
+<img width = "350" height = "350" src = "https://user-images.githubusercontent.com/62322907/118217295-c8adf280-b492-11eb-8e8a-0d41b6411d40.gif" align="right" hspace="1" vspace="1">
+</p>
+
 1. Tech Stack Used :- 
     * Language Used : Kotlin
     * Database : Google Firebase
@@ -26,6 +40,8 @@
 5. ***Custom Text Layout*** is used in whole application(Text : Montserrat and Montserract-Bold).
 6. ***Glide Loader*** is used as an Image Loader Library. It handles image loading and caching.
 7. To edit or delete Product from cart ***SwipeToDeleteCallBack*** and ***SwipeToEditCallBack*** is used.
+
+## Android Emulator Demo 
 
 | Smartphone Info  | Android Version |
 | ------------- | ------------- |
